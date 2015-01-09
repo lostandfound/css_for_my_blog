@@ -44,6 +44,11 @@ vertical-align: top;
 padding-right: 10px;
 }
 
+.entry-content img {
+	padding: 0;
+	border: none;
+}
+
 .media-left img, .media-right img {
     border: none;
 }
