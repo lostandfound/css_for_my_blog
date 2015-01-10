@@ -52,3 +52,7 @@ padding-right: 10px;
 .media-left img, .media-right img {
     border: none;
 }
+
+.hatena-asin-detail, .itunes-embed {
+  border: none;
+}
