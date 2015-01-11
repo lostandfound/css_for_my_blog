@@ -60,3 +60,8 @@ padding-right: 10px;
 .hatena-asin-detail, .itunes-embed {
   border: none;
 }
+
+.media {
+  background: #F8F8F8;
+  font-size: 80%;
+}
