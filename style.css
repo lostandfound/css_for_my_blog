@@ -37,8 +37,8 @@ hr {
     margin-top: 0;
 }
 .media-left, .media-right, .media-body {
-    display: table-cell;
-vertical-align: top;
+  display: table-cell;
+  vertical-align: middle;
 }
 .media-left {
 padding-right: 10px;
