@@ -66,8 +66,13 @@ padding-right: 10px;
   font-size: 80%;
 }
 
+.media-left {
+  table-layout: fixed;
+  width: 64px;
+}
+
 .media-left img {
-    width: 32px;
+    width: 100%;
 }
 
 .text-muted {
