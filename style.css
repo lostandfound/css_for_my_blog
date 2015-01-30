@@ -53,6 +53,16 @@ padding-right: 10px;
     border: none;
 }
 
+.media + p {
+  margin-top: 1.7em;
+}
+
+blockquote footer {
+  margin-top: 1em;
+  font-size: 95%;
+  text-align: right;
+}
+
 .font-maru {
   font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru Gothic Pro","ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","HG丸ｺﾞｼｯｸM-PRO","HGMaruGothicMPRO";
 }
