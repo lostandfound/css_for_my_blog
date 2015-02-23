@@ -85,6 +85,10 @@ blockquote footer {
     width: 100%;
 }
 
+.media-body {
+  padding: 0.25em 0.5em;
+}
+
 .text-muted {
     color: #777;
 }
