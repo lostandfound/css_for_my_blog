@@ -53,7 +53,14 @@ padding-right: 10px;
     border: none;
 }
 
-.media + p {
+.media + h1,
+.media + h2,
+.media + h3,
+.media + h4,
+.media + h5,
+.media + h6,
+.media + p
+ {
   margin-top: 1.7em;
 }
 
