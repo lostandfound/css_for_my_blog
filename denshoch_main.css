@@ -1,0 +1,198 @@
+.header-image-only #blog-title #blog-title-inner {top:-18px;}
+#content { background-image: none;}
+#box2 .hatena-bookmark-widget div.hatena-bookmark-widget-title {
+    border-radius: 3px;
+    background: #FF7171;  
+}
+#box2 .hatena-bookmark-widget li a {color: #222;}
+#box2 .hatena-bookmark-widget li a:visited {color: #222;}
+#box2 a {
+text-decoration: none;
+}
+.hatena-bookmark-widget ul li a.hatena-bookmark-entrytitle {
+display: block;
+text-align: left;
+padding: 5px 0;
+height: 2em;
+}
+#box2 .hatena-bookmark-widget a:hover {
+text-decoration: underline;
+}
+#box2 div.hatena-bookmark-widget-title img {
+    display:none;}
+#box2 div.hatena-bookmark-widget-title a {
+    border-radius: 3px;
+    color: #F8F8F8;
+    background: #FF7171;
+}
+#box2 .hatena-bookmark-widget span.hatena-bookmark-count strong a {
+    color: red;
+}
+#box2 .hatena-bookmark-widget ul {
+    border: 1px solid #FF7171;
+    border-bottom: none;
+    background: #FFF9E3;
+}
+#box2 .hatena-bookmark-widget ul li {
+    border-bottom: 1px solid #FF7171;
+}
+#box2 div.hatena-bookmark-widget-footer {
+    display: none;
+}
+
+.hatena-module {
+  margin-bottom: 25px;
+}
+
+
+a, .entry-header, .entry-header a {color: #FF7171;}
+.hatena-module-title {color: #FF7171;}
+.entry-content h1::before, .entry-content h2::before, .entry-content h3::before, .entry-content h4::before {color: #FF7171;}
+a:hover {color:#F90;}
+.entry-content a:visited {
+color: #F09;
+}
+
+div.hatena-module-profile {
+ background-image: url(https://lh4.googleusercontent.com/-3Q3c8qq1WmI/Trauq5yiszI/AAAAAAAAJeM/vnFrnRPBMjY/s144/denshochan_20101213_face.png);
+ background-repeat: no-repeat;
+ background-size:66px 66px;
+ background-position: left center;
+}
+div.hatena-module-body span.id {
+    margin-top: 0.75em;
+    padding-left: 0.25em;
+    font-weight: bold;
+}
+div.hatena-module-body span.id a {
+    display: none;
+}
+div.hatena-module-body span.id:after {
+    /*content: "densho-chan";*/
+    color: #FF7171;
+}
+img.profile-icon {
+    visibility: hidden;
+}
+dl.dialog dt {
+    margin-top: 1.5em;
+    display: run-in;
+    font-weight: bold;
+}
+
+dl.dialog dt:after {
+    content: ": ";
+}
+
+.densho {
+    color: #FF7171;
+}
+
+code {
+  color: #666;
+  font-family: monospace;
+}
+pre { white-space: pre-wrap; }
+
+div.column {
+  margin: 0.8em 0.5em;
+  border: 1px dotted #434343;
+  padding: 0.8em 0.5em;
+  background: #FFF4C6;
+}
+
+hr { 
+    margin-top: 2.7em;
+    margin-bottom: 2.7em;
+    border-color: #f7cac1;
+}
+
+div.figure {
+    margin: 1.5em 1em;
+}
+
+div.figcaption p {
+    margin: 0;
+    font-size: 0.88em;
+    color: #A61700;
+}
+
+div.code {
+    padding: 0.5em;
+    font-family: "Courier New", monospase;
+    line-height:1.3;
+    white-space: pre-wrap;
+    background: #EEE3FF;
+}
+
+div.about {
+    margin-top: 3em;
+    border: 1px solid #f7cac1;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    padding: 0 2em; 1em;
+    font-size: 0.8em;
+}
+
+div.about h3 {
+    border-color: #7d2728;
+}
+
+div.about table,
+div.about table td {
+    border: none;
+    vertical-align: top;
+}
+
+img.icon {
+    border: 1px solid #7d2728;
+    padding: 5px;
+    width: 100px;
+    height: 100px;
+}
+
+div.amazlet-box { margin-left: 3em;}
+
+#feedlist{
+    background:#fff;
+    border-radius:6px;
+    padding: 1em;
+}
+#feedlist p {
+    position:relative;
+    top: 5px;
+    color: #888;
+    text-shadow: none;
+    font-weight: bold;
+}
+#feedlist a {
+    text-shadow: none;
+}
+#feedlist .blogroll-category-name {
+    color: #888;
+    text-shadow: none;
+    font-weight: bold;
+}
+.entry blockquote p {
+    margin-bottom: 0.5em;
+}
+strong { font-family:sans-serif;}
+
+.entry-inner h2,
+.entry-inner h3 {
+    border-bottom: 1px solid #ccc;
+}
+
+.lead {
+    font-size: 1.25em;
+    color: #449999;
+}
+
+.lead a {
+    color: inherit;
+}
+
+small, .small {
+	font-size: 85%;
+}
