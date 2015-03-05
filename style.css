@@ -1,3 +1,13 @@
+body {
+  font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Arial', 'Hiragino Maru Gothic Pro', 'Meiryo', 'MS PGothic', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* blog_theme */
+.date {
+  width: 5.5em;
+}
+
 .panel {
 margin-bottom: 20px;
 background-color: #fff;
