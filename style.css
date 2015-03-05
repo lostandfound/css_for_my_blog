@@ -4,7 +4,7 @@ body {
 }
 
 /* blog_theme */
-.date {
+.archive-entry .date {
   width: 5.5em;
 }
 
