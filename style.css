@@ -579,3 +579,17 @@ a.label:focus {
 .label-danger[href]:focus {
   background-color: #c9302c;
 }
+
+/* 記事下バナー広告補正 */
+.mobile_big_banner_container {
+  position: relative;
+  left: -10px;
+  width: 320px;
+}
+
+@media screen and (min-width: 321px) {
+  .mobile_big_banner_container {
+    position: initial;
+    width: initial;
+  }
+}
