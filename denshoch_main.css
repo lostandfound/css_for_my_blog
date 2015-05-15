@@ -196,3 +196,17 @@ strong { font-family:sans-serif;}
 small, .small {
 	font-size: 85%;
 }
+
+/* 記事下バナー広告補正 */
+.mobile_big_banner_container {
+  position: relative;
+  left: -10px;
+  width: 320px;
+}
+
+@media screen and (min-width: 321px) {
+  .mobile_big_banner_container {
+    position: initial;
+    width: initial;
+  }
+}
